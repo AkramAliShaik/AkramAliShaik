@@ -19,7 +19,7 @@
 <h2 align="center">🚀 About Me</h2>
 <br>
 <p align="center">
-  Akram Ali here — a B.Tech CSE (AI/ML) graduate from VIT-AP University focused on building intelligent, high-performance systems.
+  Here — a B.Tech CSE (AI/ML) graduate from VIT-AP University focused on building intelligent, high-performance systems.
 </p>
 <p align="center">
   I enjoy architecting AI-driven platforms, exploring advanced machine learning models, and developing deep learning architectures for complex problem-solving.<br>Currently, I'm deep-diving into robust <b>PyTorch</b> implementations, <b>TensorFlow</b>, and computer vision technologies.
@@ -57,8 +57,7 @@
 <br>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkramAliShaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramAliShaik&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkramAliShaik&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <!-- ACTIVITY GRAPH -->

@@ -52,9 +52,3 @@
 <br>
 
 <hr>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkramAliShaik&bg_color=0D1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-<br>

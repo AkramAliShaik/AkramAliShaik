@@ -16,7 +16,7 @@
 
 <!-- ABOUT ME -->
 <br>
-<h2 align="center">About Me</h2>
+<h2 align="center">⌘ About Me</h2>
 <br>
 <p align="center">
   Here — a B.Tech CSE (AI/ML) graduate from VIT-AP University focused on building intelligent, high-performance systems.
@@ -33,7 +33,7 @@
 
 <!-- CONNECT -->
 <br>
-<h2 align="center">Connect</h2>
+<h2 align="center">	↗ Connect</h2>
 <p align="center">
   <a href="https://github.com/AkramAliShaik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://in.linkedin.com/in/akram-ali-shaik-826465275"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
